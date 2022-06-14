@@ -1,0 +1,14 @@
+body{
+    background-image: url('https://img.freepik.com/free-vector/elegant-dark-background-with-golden-details_52683-32876.jpg');
+  }
+  ul li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+  }
+  li{
+    padding:4px;
+  }
+  h3{
+    color:aliceblue;
+  }
