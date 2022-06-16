@@ -2,6 +2,8 @@
 PROJECT TITLE:  Resume(C.V)  page
 
 PROJECT DESCRIPTION:
+
+5 a)
   I have made the my Resume page Using :
     Language:HTML 
              CSS
@@ -9,10 +11,14 @@ PROJECT DESCRIPTION:
   To get job we need to show our resume and resume reflects our personality,experience and creativity.
   Through this resume website i tried to show my creativity and knowledge of HTML AND CSS.
   
+  
+5 b)  
 TECHNOLOGY USED:
   .VS CODE
   .HTML
   .CSS
+  
+5 c)  
   
 FEATURES OF THE PROJECT:
   1)It has logo and navbar with drop down options.
